@@ -1,0 +1,110 @@
+[
+  {
+    "book_name": "The Women",
+    "id": 1,
+    "author": "Kristin Hannah",
+    "review": "A female nursing student joins the Army Nurse Corps to serve in the Vietnam War like her brother.",
+    "tag": ["Historical Fiction", "War", "Female Protagonist"],
+    "number_of_pages": 400,
+    "publisher": "St. Martin's Press",
+    "year_of_publishing": 2014,
+    "ratings": 4.8,
+    "book_image": "https://img.freepik.com/free-psd/realistic-book-cover-presentation_1310-23.jpg?w=740&t=st=1716027171~exp=1716027771~hmac=efa268b5d531f73b1d00893049ca7490b2d57fa4f7299cc6e654fc080c15e748"
+  },
+  {
+    "book_name": "Fourteen Days",
+    "id": 2,
+    "author": "Margaret Atwood",
+    "review": "Stories about apartment residents during the pandemic, each character’s tale written by a famous author.",
+    "tag": ["Literary Fiction", "Anthology", "Pandemic"],
+    "number_of_pages": 320,
+    "publisher": "Penguin Random House",
+    "year_of_publishing": 2015,
+    "ratings": 4.6,
+    "book_image": "https://img.freepik.com/free-vector/good-paper-wattpad-book-cover_23-2149452379.jpg?t=st=1716027408~exp=1716031008~hmac=2e8c25fbde7a76bbd7f7e42fc25d8946abaf21788c4723bd724b4a97c147a8a2&w=740"
+  },
+  {
+    "book_name": "A Love Song for Ricki Wilde",
+    "id": 3,
+    "author": "Tia Williams",
+    "review": "An Atlanta socialite moves to Harlem and begins a transformative romance with a mysterious artist.",
+    "tag": ["Romance", "Contemporary", "Transformation"],
+    "number_of_pages": 350,
+    "publisher": "Grand Central Publishing",
+    "year_of_publishing": 2020,
+    "ratings": 4.5,
+    "book_image": "https://img.freepik.com/free-vector/good-paper-wattpad-book-cover_23-2149452379.jpg?t=st=1716027408~exp=1716031008~hmac=2e8c25fbde7a76bbd7f7e42fc25d8946abaf21788c4723bd724b4a97c147a8a2&w=740"
+  },
+  {
+    "book_name": "The Teacher",
+    "id": 4,
+    "author": "Freida McFadden",
+    "review": "A nervous math teacher faces her past when a scandal-involved student joins her class.",
+    "tag": ["Mystery", "Thriller", "School"],
+    "number_of_pages": 300,
+    "publisher": "Sourcebooks",
+    "year_of_publishing": 2022,
+    "ratings": 4.7,
+    "book_image": "https://img.freepik.com/free-psd/bookstore-ad-flyer-template_23-2148680425.jpg?t=st=1716027463~exp=1716031063~hmac=4b0218461f82131678ba660fecdaa8568f50a7c45566d5ba2c7f37bfd5cc8c18&w=740"
+  },
+  {
+    "book_name": "Redwood Court",
+    "id": 5,
+    "author": "DéLana R. A. Dameron",
+    "review": "Vignettes about a Black working-class family in South Carolina as the youngest daughter grows up.",
+    "tag": ["Historical Fiction", "Family", "Coming of Age"],
+    "number_of_pages": 280,
+    "publisher": "Agate Bolden",
+    "year_of_publishing": 2021,
+    "ratings": 4.9,
+    "book_image": "https://img.freepik.com/free-vector/abstract-elegant-winter-book-cover_23-2148798745.jpg?t=st=1716027611~exp=1716031211~hmac=e017c69d23a0506619251a1857923cfb6897b39da9a688df6299be9bc04d1c4b&w=740"
+  },
+  {
+    "book_name": "The Resort",
+    "id": 6,
+    "author": "Sara Ochs",
+    "review": "Expats in Thailand face mysterious deaths, each connected to their shadowy pasts.",
+    "tag": ["Mystery", "Thriller", "Expats"],
+    "number_of_pages": 330,
+    "publisher": "William Morrow",
+    "year_of_publishing": 2023,
+    "ratings": 4.4,
+    "book_image": "https://img.freepik.com/free-psd/realistic-book-cover-presentation_1310-23.jpg?w=740&t=st=1716027171~exp=1716027771~hmac=efa268b5d531f73b1d00893049ca7490b2d57fa4f7299cc6e654fc080c15e748"
+  },
+  {
+    "book_name": "Everyone Who Can Forgive Me is Dead",
+    "id": 7,
+    "author": "Jenny Hollander",
+    "review": "A massacre survivor's life is upended when a fellow survivor plans a movie about the event.",
+    "tag": ["Mystery", "Thriller", "Survivor"],
+    "number_of_pages": 360,
+    "publisher": "Gallery Books",
+    "year_of_publishing": 2024,
+    "ratings": 4.6,
+    "book_image": "https://img.freepik.com/free-psd/bookstore-ad-flyer-template_23-2148680425.jpg?t=st=1716027463~exp=1716031063~hmac=4b0218461f82131678ba660fecdaa8568f50a7c45566d5ba2c7f37bfd5cc8c18&w=740"
+  },
+  {
+    "book_name": "Bride",
+    "id": 8,
+    "author": "Ali Hazelwood",
+    "review": "A Vampyre's daughter is promised in marriage to their mortal enemies, the Weres, for peace.",
+    "tag": ["Paranormal Romance", "Fantasy", "Enemies to Lovers"],
+    "number_of_pages": 340,
+    "publisher": "Berkley",
+    "year_of_publishing": 2022,
+    "ratings": 4.7,
+    "book_image": "https://img.freepik.com/free-psd/world-forest-day-poster-template_23-2148899237.jpg?t=st=1716027711~exp=1716031311~hmac=32f054d79a8093f65077f50a2c5e7f97fb9cccfca65902e82f08599de80d35d9&w=740"
+  },
+  {
+    "book_name": "The Phoenix Crown",
+    "id": 9,
+    "author": "Kate Quinn and Janie Chang",
+    "review": "Two women solve the mystery of a relic lost in the San Francisco Earthquake, found years later in Paris.",
+    "tag": ["Historical Fiction", "Mystery", "Adventure"],
+    "number_of_pages": 400,
+    "publisher": "HarperCollins",
+    "year_of_publishing": 2023,
+    "ratings": 4.8,
+    "book_image": "https://img.freepik.com/free-psd/world-forest-day-poster-template_23-2148899237.jpg?t=st=1716027711~exp=1716031311~hmac=32f054d79a8093f65077f50a2c5e7f97fb9cccfca65902e82f08599de80d35d9&w=740"
+  }
+]
